@@ -1,7 +1,7 @@
-title: Nagymaros
-description: Jekyll theme for a conference website
-baseurl: ""
-url: https://piazzai.github.io/jekyll-nagymaros
+title: Quinte Hackathon - Fall 2024
+description: An upcoming Hackathon for the Quinte
+baseurl: "https://quintehackathon.github.io/2024-fall/"
+url: https://quintehackathon.github.io/2024-fall
 
 theme: jekyll-nagymaros
 
